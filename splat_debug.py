@@ -1,9 +1,9 @@
 import poser
 
-############################################
+#############################################
 # Function returns Node within a shader tree
 # that has the given name
-############################################
+#############################################
 def findNodeInMat( oMat, sName ):
 
     oFoundNode = None    

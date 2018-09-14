@@ -1,0 +1,8 @@
+{
+    version
+    {
+        number 4
+    }
+    runPythonScript "Runtime:libraries:Materials:{PR}MessyFX-SampleShader:splatter.py
+}
+
